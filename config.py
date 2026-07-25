@@ -1,0 +1,4 @@
+APP_NAME='Family Contribution Management System'
+VERSION='0.1'
+WINDOW_WIDTH=1200
+WINDOW_HEIGHT=700
